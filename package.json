@@ -1,0 +1,8 @@
+{
+  "name": "folk-crafts-store",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Вебсервіс каталогу народних промислів",
+  "scripts": {"start": "node src/server.js", "test": "node --test"},
+  "engines": {"node": ">=20"}
+}
